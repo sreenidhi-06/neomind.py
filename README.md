@@ -1,2 +1,10 @@
-# neomind.py
-this is about the disorders which we can find in new born babies AI detects the disorder by there behaviour
+# NeoMind - AI Early Detection Prototype
+
+## How to Run
+
+### Method 1: Run Locally
+```bash
+git clone https://github.com/YOUR-USERNAME/neomind-ai.git
+cd neomind-ai
+pip install -r requirements.txt
+python neomind.py
